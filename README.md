@@ -11,10 +11,6 @@
 <a href="https://instagram.com/ericyliang"><img src="https://img.shields.io/badge/@ericyliang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:ericliang@lowkeyagency.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=erickyy29&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="profile views" />
-
 </div>
 
 ---
@@ -58,16 +54,21 @@ Creating **finance content** for a **10K+** audience — breaking down money, sy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=erickyy29&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&include_all_commits=true" />
-<img height="170" src="https://streak-stats.demolab.com/?user=erickyy29&theme=tokyonight&hide_border=true" />
+<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erickyy29&theme=tokyonight" />
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickyy29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erickyy29&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erickyy29&theme=tokyonight&utcOffset=-4" />
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erickyy29&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erickyy29&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=erickyy29&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=erickyy29&theme=tokyo-night&hide_border=true&area=true&custom_title=Eric's%20Contribution%20Graph" />
 
 </div>
 
