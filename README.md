@@ -50,30 +50,6 @@ Creating **finance content** for a **10K+** audience — breaking down money, sy
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erickyy29&theme=tokyonight" />
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erickyy29&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erickyy29&theme=tokyonight&utcOffset=-4" />
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erickyy29&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erickyy29&theme=tokyonight" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=erickyy29&theme=tokyo-night&hide_border=true&area=true&custom_title=Eric's%20Contribution%20Graph" />
-
-</div>
-
----
-
 <div align="center">
   <i>Building the systems behind the scenes. ⚙️</i>
 </div>
